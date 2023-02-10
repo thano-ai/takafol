@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/takafol/static/css/main.543d75aa.css",
+    "main.js": "/takafol/static/js/main.62253d96.js",
+    "static/media/logo.jpg": "/takafol/static/media/logo.85b7a2a12a2735df26eb.jpg",
+    "static/media/home.jpg": "/takafol/static/media/home.04c0b78d84a45dd6bcca.jpg",
+    "static/media/heart.png": "/takafol/static/media/heart.effb6b123d6998271c19.png",
+    "static/media/protection.png": "/takafol/static/media/protection.394145210ff3a66d1337.png",
+    "index.html": "/takafol/index.html",
+    "main.543d75aa.css.map": "/takafol/static/css/main.543d75aa.css.map",
+    "main.62253d96.js.map": "/takafol/static/js/main.62253d96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.543d75aa.css",
+    "static/js/main.62253d96.js"
+  ]
+}
